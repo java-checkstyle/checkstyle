@@ -155,8 +155,6 @@
     <module name="SingleLineJavadoc"/>
     <module name="LineLength">
       <property name="max" value="130"/>
-      <property name="ignorePattern" value="^ *\+ *"/>
-      <property name="ignorePattern" value="^ *\" *"/>
       <property name="tabWidth" value="2"/>
     </module>
   </module>
